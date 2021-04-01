@@ -19,5 +19,8 @@
     "url": "https://github.com/chashikajw/simple-http-server/issues"
   },
   "homepage": "https://github.com/chashikajw/simple-http-server#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
