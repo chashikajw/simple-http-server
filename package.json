@@ -1,11 +1,22 @@
 {
   "name": "pythonserver",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chashikajw/simple-http-server.git"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "bugs": {
+    "url": "https://github.com/chashikajw/simple-http-server/issues"
+  },
+  "homepage": "https://github.com/chashikajw/simple-http-server#readme",
+  "description": ""
 }
